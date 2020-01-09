@@ -1,5 +1,4 @@
-﻿
-namespace MinhaComandaDomain.Entities
+﻿namespace MinhaComandaDomain.Entities
 {
     public class Estabelecimento : Entidade
     {
